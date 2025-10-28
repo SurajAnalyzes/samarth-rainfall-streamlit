@@ -1,11 +1,12 @@
 # samarth-rainfall-streamlit
-
 Build For Bharat Fellowship demo app to visualize rainfall data from data.gov.in using Streamlit.
+
+## 🔗 Live Demo
+Check out the deployed application here: [https://samarth-rainfall-app-bjy4cwd7edpw63pvljipze.streamlit.app/](https://samarth-rainfall-app-bjy4cwd7edpw63pvljipze.streamlit.app/)
 
 ## 📁 How to Upload Your Code Files (Beginner-Friendly Guide)
 
 ### Method 1: Upload Files Directly on GitHub (Easiest for Beginners)
-
 1. **Go to your repository**: Visit https://github.com/SurajAnalyzes/samarth-rainfall-streamlit
 2. **Click "Add file"** button (top right, near the green "Code" button)
 3. **Select "Upload files"**
@@ -14,7 +15,6 @@ Build For Bharat Fellowship demo app to visualize rainfall data from data.gov.in
 6. **Click "Commit changes"** button at the bottom
 
 ### Method 2: Using Git Commands (If you prefer command line)
-
 ```bash
 # 1. Open terminal/command prompt on your computer
 # 2. Navigate to your project folder
@@ -38,7 +38,6 @@ git push -u origin main
 ```
 
 ## 📦 Project Structure (Recommended)
-
 ```
 samarth-rainfall-streamlit/
 │
@@ -51,12 +50,6 @@ samarth-rainfall-streamlit/
 ```
 
 ## 🚀 Getting Started
-
-### Prerequisites
-- Python 3.7 or higher
-- pip (Python package installer)
-
-### Installation
 
 1. Clone this repository:
 ```bash
@@ -75,9 +68,7 @@ streamlit run app.py
 ```
 
 ## 📋 requirements.txt Template
-
 Create a file named `requirements.txt` with these contents:
-
 ```
 streamlit
 pandas
@@ -87,22 +78,18 @@ matplotlib
 ```
 
 ## 💡 Tips for Beginners
-
 - **Commit often**: Save your changes frequently with meaningful messages
 - **Use .gitignore**: Don't upload large data files or temporary files
 - **README is important**: Keep this file updated with project info
 - **Test locally first**: Make sure your app works on your computer before uploading
 
 ## 🎯 Project Description
-
 This project is built as part of the Build For Bharat Fellowship. It visualizes rainfall data from data.gov.in using Streamlit, making it easy to explore and understand rainfall patterns across India.
 
 ## 📧 Contact
-
 Maintained by: Suraj Kadam (SurajAnalyzes)
 
 ---
-
 **Need Help?**
 - GitHub Documentation: https://docs.github.com/
 - Streamlit Documentation: https://docs.streamlit.io/
